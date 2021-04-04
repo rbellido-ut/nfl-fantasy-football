@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-west-2:761836441003:function:8dad16b6-b081-4ad5-91cb-7798d7383e39:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:761836441003:function:8dad16b6-b081-4ad5-91cb-7798d7383e39:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:761836441003:function:8dad16b6-b081-4ad5-91cb-7798d7383e39:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:761836441003:function:8dad16b6-b081-4ad5-91cb-7798d7383e39:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "NFL Fantasy Football"
+        }
+      }
+    }
+  }
+}
